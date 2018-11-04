@@ -1,13 +1,21 @@
 # Piscine-Reloaded
 
 Exercise 00 : Oh yeah, mooore...
+
 Exercise 01 : Z
+
 Exercise 02 : clean
+
 Exercise 03 : find_sh 10
+
 Exercise 04 : MAC 11
+
 Exercise 05 : Can you create it ?
+
 Exercise 06 : ft_print_alphabet
+
 Exercise 07 : ft_print_numbers
+
 Exercise 08 : ft_is_negative
 Exercise 09 : ft_ft
 Exercise 10 : ft_swap
